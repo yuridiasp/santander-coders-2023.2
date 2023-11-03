@@ -1,0 +1,20 @@
+ipconfig
+    -> Exibir informações dos adaptadores de rede, bem como endereços de rede, máscaras e gatewaypadrão
+
+ipconfig /flushdns
+    -> Limpar cash DNS
+
+ping
+    ->
+
+nslookup
+    -> 
+
+tracert
+    -> Mapear saltos entre os roteadores até o destino
+
+route print
+    -> 
+
+netstat
+    -> 
