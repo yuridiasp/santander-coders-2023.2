@@ -21,16 +21,16 @@ Trilha back-end do programa [Santander Coders](https://app.becas-santander.com/p
 * Comando [`git checkout`](https://git-scm.com/docs/git-checkout)
 * Comando [`git merge`](https://git-scm.com/docs/git-merge)
 * Video Aulas:
-  - [Aula 1](https://youtu.be/tcUsdj8CNEI)
-  - [Aula 2](https://youtu.be/ZXJPth6zteQ)
-  - [Aula 3](https://youtu.be/0EyaRrKH3xw)
-  - [Aula 4](https://youtu.be/79YlA2bcfsI)
-  - [Aula 5](https://youtu.be/4MxLs7mYc54)
-  - [Aula 6](https://youtu.be/NrW_UPAr83Q)
-  - [Aula 7](https://youtu.be/0th6FUR2EN4)
-  - [Aula 8](https://youtu.be/y9ziXFBmV5o)
-  - [Aula 9](https://youtu.be/EAJl34f0fYw)
-  - [Aula 10](https://youtu.be/TFBWfHw7ohs)
+  - [Aula 1 - O que é Git?](https://youtu.be/tcUsdj8CNEI)
+  - [Aula 2 - Instalando e configurando o Git](https://youtu.be/ZXJPth6zteQ)
+  - [Aula 3 - Repositórios do Git](https://youtu.be/0EyaRrKH3xw)
+  - [Aula 4 - Gravando mudanças no repositório](https://youtu.be/79YlA2bcfsI)
+  - [Aula 5 - Git diff, commit e rm](https://youtu.be/4MxLs7mYc54)
+  - [Aula 6 - Git log e restore](https://youtu.be/NrW_UPAr83Q)
+  - [Aula 7 - Repositórios remotos](https://youtu.be/0th6FUR2EN4)
+  - [Aula 8 - GitHub](https://youtu.be/y9ziXFBmV5o)
+  - [Aula 9 - Git branch](https://youtu.be/EAJl34f0fYw)
+  - [Aula 10 - Merging branches](https://youtu.be/TFBWfHw7ohs)
 
 ### Algoritmos
 
