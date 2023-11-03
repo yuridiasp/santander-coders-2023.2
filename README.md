@@ -5,7 +5,7 @@ Trilha back-end do programa Santander Coders.
 ## Conteúdos estudados
 
 ### [Git e Versionamento](https://github.com/yuridiasp/santander-coders-2023.2/tree/main/src/Git%20e%20Versionamento)
-* Comando `git init`
+* Comando [`git init`](https://git-scm.com/docs/git-init)
 * Comando `git status`
 * Comando `git add <<caminho do arquivo>>`
 * Comando `git diff`
