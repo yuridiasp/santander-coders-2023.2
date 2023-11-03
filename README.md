@@ -16,6 +16,7 @@ Trilha back-end do programa [Santander Coders](https://app.becas-santander.com/p
 * Comando [`git restore --staged <<caminho do arquivo>>`](https://git-scm.com/docs/git-restore)
 * Comando [`git pull`](https://git-scm.com/docs/git-pull)
 * Comando [`git fetch`](https://git-scm.com/docs/git-fetch)
+* Introdução ao [Github](https://github.com/)
 
 ### Algoritmos
 
