@@ -9,7 +9,7 @@ Trilha back-end do programa [Santander Coders](https://app.becas-santander.com/p
 * Comando [`git status`](https://git-scm.com/docs/git-status)
 * Comando [`git add <<caminho do arquivo>>`](https://git-scm.com/docs/git-add)
 * Comando [`git diff`](https://git-scm.com/docs/git-diff)
-* COmando [`git diff --staged`](https://git-scm.com/docs/git-diff)
+* Comando [`git diff --staged`](https://git-scm.com/docs/git-diff)
 * Comando [`git commit -m <<texto descritivo>>`](https://git-scm.com/docs/git-commit)
 * Comando [`git log`](https://git-scm.com/docs/git-log)
 * Comando [`git restore <<caminho do arquivo>>`](https://git-scm.com/docs/git-restore)
