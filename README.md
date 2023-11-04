@@ -146,6 +146,7 @@ Trilha back-end do programa [Santander Coders](https://app.becas-santander.com/p
 * Manipulação de Datas
 * Estruturas de repetição "for"
 * Arrays
+* Funções
 * Video Aulas:
   - [Aula 1 - Introdução ao Java](https://youtu.be/NXcGewb5XoM)
   - [Aula 2 - Setup](https://youtu.be/DJrgDdCdHUI)
