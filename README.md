@@ -159,5 +159,9 @@ Trilha back-end do programa [Santander Coders](https://app.becas-santander.com/p
   - [Aula 9 - Funções](https://youtu.be/GBWGiKusbls)
 
 ### [Introdução à programação orientada a objetos em Java](#)
+* Introdução à POO
+* Video Aulas:
+  - [Aula 1 - Introdução ao curso](https://youtu.be/RGfuCH8siUY)
+  - [Aula 2 - Hello, World! com Java](https://youtu.be/fTQ9f-5HxM8)
 
 ### [Banco de Dados](#)
