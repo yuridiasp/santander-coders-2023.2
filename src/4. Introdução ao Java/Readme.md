@@ -1,4 +1,4 @@
-### [Introdução ao Java](https://github.com/yuridiasp/santander-coders-2023.2/tree/main/src/4.%20Introdu%C3%A7%C3%A3o%20ao%20Java)
+### Introdução ao Java
 * Introdução ao Java e suas aplicações
 * Preparação do Ambiente
 * [Documentação Oficial Java Oracle](https://docs.oracle.com/javase/tutorial/)
