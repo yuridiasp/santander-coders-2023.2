@@ -219,14 +219,27 @@ Trilha back-end do programa [Santander Coders](https://app.becas-santander.com/p
 * **Introdução a Banco de Dados**
 * **Preparação do Sistema: Instação do Postgresql**
 * **[Documentação Oficial Postgresql](https://www.postgresql.org/docs/)**
-* **Tipos de Dados**
+* **Principais Tipos de Dados**
+* **Entidades em um Banco de Dados**
+* **Modelagem de entidade e relacionamento**
+* **Diagrama de entidade-relacionamento:** [VisualParadigm](https://online.visual-paradigm.com/pt/)
+* **Exercício:** Modelar a base de dados de uma escola
+* **Chave Primária**
+* **Chave Estrangeira**
+* **Tipos de Relacionamento:** Um-para-um, Um-para-muitos e Muitos-para-muitos.
+* **Tabela Auxiliar**
+* **Normalização de dados:**
+  * Primeira forma normal: Cada atributo deve conter apenas um valor correpondente num dado registro.
+  * Segunda forma normal: Cada elemento da tabela deve depender apenas da sua chave primária.
+  * Terceira forma normal: Um elemento, não chave da tabela, não pode depender de outro elemento não chave.
+  * Forma normal boyce codd (três e meio): A tabela não pode ter mais de uma chave candidata.
 * **Video Aulas**:
   - [Aula 1 - Introdução ao curso](https://youtu.be/kvqBpJMt38M)
   - [Aula 2 - Tipos de dados e custo de armazenamento](https://youtu.be/BT8PFkWrKZY)
-  - [Aula 3 - Modelagem de entidades](#)
-  - [Aula 4 - Modelagem de relacionamentos](#)
-  - [Aula 5 - Normalização de Dados](#)
-  - [Aula 6 - Inserindo tabelas no banco](#)
+  - [Aula 3 - Modelagem de entidades](https://youtu.be/jBJ83GMwOCY)
+  - [Aula 4 - Modelagem de relacionamentos](https://youtu.be/OdVSQWqbB8U)
+  - [Aula 5 - Normalização de Dados](https://youtu.be/QdGPZlG_-n4)
+  - [Aula 6 - Inserindo tabelas no banco](https://youtu.be/8GXUgQLXd-o)
   - [Aula 7 - Inserindo dados no banco](#)
   - [Aula 8 - Editando e removendo dados](#)
   - [Aula 9 - Permissionamento e Views](#)
