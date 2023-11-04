@@ -216,14 +216,18 @@ Trilha back-end do programa [Santander Coders](https://app.becas-santander.com/p
   - [Aula 10 - Conclusão do curso](https://youtu.be/KUin9bxZGdY)
 
 ### [Banco de Dados](https://github.com/yuridiasp/santander-coders-2023.2/tree/main/src/6.%20Bando%20%de%20Dados)
+* **Introdução a Banco de Dados**
+* **Preparação do Sistema: Instação do Postgresql**
+* **[Documentação Oficial Postgresql](https://www.postgresql.org/docs/)**
+* **Tipos de Dados**
 * **Video Aulas**:
   - [Aula 1 - Introdução ao curso](https://youtu.be/kvqBpJMt38M)
-  - [Aula 2 - Introdução ao curso](#)
-  - [Aula 3 - Introdução ao curso](#)
-  - [Aula 4 - Introdução ao curso](#)
-  - [Aula 5 - Introdução ao curso](#)
-  - [Aula 6 - Introdução ao curso](#)
-  - [Aula 7 - Introdução ao curso](#)
-  - [Aula 8 - Introdução ao curso](#)
-  - [Aula 9 - Introdução ao curso](#)
-  - [Aula 10 - Introdução ao curso](#)
+  - [Aula 2 - Tipos de dados e custo de armazenamento](https://youtu.be/BT8PFkWrKZY)
+  - [Aula 3 - Modelagem de entidades](#)
+  - [Aula 4 - Modelagem de relacionamentos](#)
+  - [Aula 5 - Normalização de Dados](#)
+  - [Aula 6 - Inserindo tabelas no banco](#)
+  - [Aula 7 - Inserindo dados no banco](#)
+  - [Aula 8 - Editando e removendo dados](#)
+  - [Aula 9 - Permissionamento e Views](#)
+  - [Aula 10 - Índices](#)
