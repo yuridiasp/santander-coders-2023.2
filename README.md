@@ -144,6 +144,8 @@ Trilha back-end do programa [Santander Coders](https://app.becas-santander.com/p
 * Estruturas de condição (if | else | switch)
 * Manipulação de Strings
 * Manipulação de Datas
+* Estruturas de repetição "for"
+* Arrays
 * Video Aulas:
   - [Aula 1 - Introdução ao Java](https://youtu.be/NXcGewb5XoM)
   - [Aula 2 - Setup](https://youtu.be/DJrgDdCdHUI)
@@ -151,6 +153,9 @@ Trilha back-end do programa [Santander Coders](https://app.becas-santander.com/p
   - [Aula 4 - Operadores Booleanos | Tabela Verdade](https://youtu.be/_NKqGQG_U8U)
   - [Aula 5 - Estruturas Condicionais](https://youtu.be/UFwuwAVlDjQ)
   - [Aula 6 - Manipulação de Strings e Datas](https://youtu.be/NAwdEyYjats)
+  - [Aula 7 - Laços Numéricos](https://youtu.be/lef5QFFsCA8)
+  - [Aula 8 - Vetores](https://youtu.be/_jR6fM2ZKvg)
+  - [Aula 9 - Funções](https://youtu.be/GBWGiKusbls)
 
 ### [Introdução à programação orientada a objetos em Java](#)
 
