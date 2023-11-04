@@ -158,7 +158,7 @@ Trilha back-end do programa [Santander Coders](https://app.becas-santander.com/p
   - [Aula 8 - Vetores](https://youtu.be/_jR6fM2ZKvg)
   - [Aula 9 - Funções](https://youtu.be/GBWGiKusbls)
 
-### [Introdução à programação orientada a objetos em Java](#)
+### [Introdução à programação orientada a objetos em Java](https://github.com/yuridiasp/santander-coders-2023.2/tree/main/src/5.%20Introdu%C3%A7%C3%A3o%20%C3%A0%20programa%C3%A7%C3%A3o%20orientada%20a%20objetos%20em%20Java)
 * **Introdução à POO**
 * **Tipos primitivos**
   * Valores padrão:
@@ -215,4 +215,15 @@ Trilha back-end do programa [Santander Coders](https://app.becas-santander.com/p
   - [Aula 9 - Para virar mestre](https://youtu.be/6CMHSkOcB0I)
   - [Aula 10 - Conclusão do curso](https://youtu.be/KUin9bxZGdY)
 
-### [Banco de Dados](#)
+### [Banco de Dados](https://github.com/yuridiasp/santander-coders-2023.2/tree/main/src/6.%20Bando%20%de%20Dados)
+* **Video Aulas**:
+  - [Aula 1 - Introdução ao curso](https://youtu.be/kvqBpJMt38M)
+  - [Aula 2 - Introdução ao curso](#)
+  - [Aula 3 - Introdução ao curso](#)
+  - [Aula 4 - Introdução ao curso](#)
+  - [Aula 5 - Introdução ao curso](#)
+  - [Aula 6 - Introdução ao curso](#)
+  - [Aula 7 - Introdução ao curso](#)
+  - [Aula 8 - Introdução ao curso](#)
+  - [Aula 9 - Introdução ao curso](#)
+  - [Aula 10 - Introdução ao curso](#)
