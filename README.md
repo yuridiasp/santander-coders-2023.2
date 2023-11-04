@@ -32,7 +32,7 @@ Trilha back-end do programa [Santander Coders](https://app.becas-santander.com/p
   - [Aula 9 - Git branch](https://youtu.be/EAJl34f0fYw)
   - [Aula 10 - Merging branches](https://youtu.be/TFBWfHw7ohs)
 
-### Algoritmos
+### [Algoritmos](https://github.com/yuridiasp/santander-coders-2023.2/tree/main/src/2.%20Algoritmos)
 * Introdução aos algoritmos: Definição e exemplos do cotidiano
 * Desenhos de fluxo
 * Pseudocódigo
@@ -56,7 +56,7 @@ Trilha back-end do programa [Santander Coders](https://app.becas-santander.com/p
   - [Aula 9 - Desempenho de Algoritmos](https://youtu.be/DHbx1RkdPro)
   - [Aula 10 - Dicas para Montar Algoritmos](https://youtu.be/fhKHnm8RPQM)
 
-### Redes e Sistemas
+### [Redes e Sistemas](https://github.com/yuridiasp/santander-coders-2023.2/tree/main/src/3.%20Redes%20e%20Sistemas)
 * Definição de redes: conjunto de dois ou mais dispositivos eletrônicos conectados entre si, que trocam informações por meio de uma linguagem pré-estabelecida chamada protocolo;
 * Exemplos de conexões de rede: conexão física (via cabos de par trançado), coaxial ou fibra ótica, wireles (radio frequência, bluetooth ou infravermelho);
 * Origem das redes: Darpa e Arpanet;
@@ -118,8 +118,8 @@ Trilha back-end do programa [Santander Coders](https://app.becas-santander.com/p
   * Ransowares
   * SQL Injection
 * Wireless: [Cisco Packet Tracer](https://skillsforall.com/course/getting-started-cisco-packet-tracer)
- - Exercício prático: Criar uma rede em um switch, conectado em um roteador que está conectado em outra rede conectada a outro switch.
-*Video Aulas:
+  - Exercício prático: Criar uma rede em um switch, conectado em um roteador que está conectado em outra rede conectada a outro switch.
+* Video Aulas:
   - [Aula 1 - Redes e Sistemas](https://youtu.be/pjDet701pMM)
   - [Aula 2 - Infraestrutura de redes e os principais equipamentos](https://youtu.be/ee5FSXSBMi4)
   - [Aula 3 - Cabeamento Estruturado](https://youtu.be/80XVev4-zLY)
@@ -131,8 +131,27 @@ Trilha back-end do programa [Santander Coders](https://app.becas-santander.com/p
   - [Aula 9 - Segurança](https://youtu.be/fR5yaTNLelI)
   - [Aula 10 - Wireless](https://youtu.be/NlXLSLW-h0M)
 
-### Introdução ao Java
+### [Introdução ao Java](#)
+* Introdução ao Java e suas aplicações
+* Preparação do Ambiente
+* [Documentação Oficial Java Oracle](https://docs.oracle.com/javase/tutorial/)
+* Declaração de Variáveis
+* Atribuições de Valores
+* Tipos Primitivos
+* Operadores Aritméticos
+* Operadores Lógicos
+* Tabela Verdade
+* Estruturas de condição (if | else | switch)
+* Manipulação de Strings
+* Manipulação de Datas
+* Video Aulas:
+  - [Aula 1 - Introdução ao Java](https://youtu.be/NXcGewb5XoM)
+  - [Aula 2 - Setup](https://youtu.be/DJrgDdCdHUI)
+  - [Aula 3 - Variáveis](https://youtu.be/MQGsIMsQNUA)
+  - [Aula 4 - Operadores Booleanos | Tabela Verdade](https://youtu.be/_NKqGQG_U8U)
+  - [Aula 5 - Estruturas Condicionais](https://youtu.be/UFwuwAVlDjQ)
+  - [Aula 6 - Manipulação de Strings e Datas](https://youtu.be/NAwdEyYjats)
 
-### Introdução à programação orientada a objetos em Java
+### [Introdução à programação orientada a objetos em Java](#)
 
-### Banco de Dados
+### [Banco de Dados](#)
