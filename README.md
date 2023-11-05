@@ -1,6 +1,6 @@
 # Santander Coders 2023.2
 
-Trilha back-end do programa [Santander Coders](https://app.becas-santander.com/pt-BR/program/bolsas-santander-tecnologia-santander-coders-2023).
+Trilha back-end do programa [Santander Coders](https://app.becas-santander.com/pt-BR/program/bolsas-santander-santander-coders-2023-2-edicao).
 
 ## Conteúdos estudados
 
@@ -233,6 +233,14 @@ Trilha back-end do programa [Santander Coders](https://app.becas-santander.com/p
   * Segunda forma normal: Cada elemento da tabela deve depender apenas da sua chave primária.
   * Terceira forma normal: Um elemento, não chave da tabela, não pode depender de outro elemento não chave.
   * Forma normal boyce codd (três e meio): A tabela não pode ter mais de uma chave candidata.
+* **Inserindo tabelas no banco de dados:** `CREATE TABLE`
+* **Inserindo dados na tabela usando SQL e importando de um CSV:** `INSERT INTO` e `COPY <<tabela>> FROM <<caminho>> DELIMITER <<caractere delimitador>> CSV HEADER`
+* **Listagem dos dados da tabela:** `SELECT * FROM <<tabela>>`
+* **Editando dados de uma tabela:** `UPDATE <<tabela>> SET <<coluna>> = <<novo dado>> WHERE <<filtro coluna>> = <<filtro dado>>`
+* **Remover dados de uma tabela:** `DELETE FROM <<tabela>> WHERE <<filtro coluna>> = <<filtro dado>>`
+* **Permissão de Acesso aos Dados do Danco de Dados e Comandos**
+* **Criação de Views:** `CREATE VIEW <<nome da view>> AS ( SELECT <<colunas>> FROM <<tabela>> )`
+* **Criando Índices:** `CREATE INDEX <<nome do índice>> ON <<tabela>>(<<coluna>>)`
 * **Video Aulas**:
   - [Aula 1 - Introdução ao curso](https://youtu.be/kvqBpJMt38M)
   - [Aula 2 - Tipos de dados e custo de armazenamento](https://youtu.be/BT8PFkWrKZY)
@@ -240,7 +248,7 @@ Trilha back-end do programa [Santander Coders](https://app.becas-santander.com/p
   - [Aula 4 - Modelagem de relacionamentos](https://youtu.be/OdVSQWqbB8U)
   - [Aula 5 - Normalização de Dados](https://youtu.be/QdGPZlG_-n4)
   - [Aula 6 - Inserindo tabelas no banco](https://youtu.be/8GXUgQLXd-o)
-  - [Aula 7 - Inserindo dados no banco](#)
-  - [Aula 8 - Editando e removendo dados](#)
-  - [Aula 9 - Permissionamento e Views](#)
-  - [Aula 10 - Índices](#)
+  - [Aula 7 - Inserindo dados no banco](https://youtu.be/MuIBJ347CjI)
+  - [Aula 8 - Editando e removendo dados](https://youtu.be/03Tc-SBJuPw)
+  - [Aula 9 - Permissionamento e Views](https://youtu.be/R3DvOCtglx4)
+  - [Aula 10 - Índices](https://youtu.be/9vibkcXarnI)
